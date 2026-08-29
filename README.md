@@ -67,3 +67,6 @@ Recommended Tools/Technologies
 - Libraries: scikit-learn, XGBoost, TensorFlow/Keras, Prophet​
 - Source Code Management: GitHub​
 - Development Environment: Colab, VS Code, or Jupyter Notebook
+
+Online Platform Options:​
+- Google Colab: For model development, training, and collaborative coding.​   
